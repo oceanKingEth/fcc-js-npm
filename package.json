@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "OceanKing.eth",
+	"author": "OceanKing",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
